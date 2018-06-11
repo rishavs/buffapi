@@ -1,0 +1,5 @@
+Create using;
+    PS C:\Users\risharan\go\src\github.com\rishavs> buffalo new buffapi --api --skip-yarn
+
+Run using:
+    Buffalo dev
